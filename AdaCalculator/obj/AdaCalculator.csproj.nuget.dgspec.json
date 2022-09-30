@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\C#\\AdaCalculator\\AdaCalculator\\AdaCalculator.csproj": {}
+    "C:\\Users\\lucas\\OneDrive\\Área de Trabalho\\Lets Code\\Safra Code\\Testes\\ExercMichael\\AdaCalculator\\AdaCalculator.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\C#\\AdaCalculator\\AdaCalculator\\AdaCalculator.csproj": {
+    "C:\\Users\\lucas\\OneDrive\\Área de Trabalho\\Lets Code\\Safra Code\\Testes\\ExercMichael\\AdaCalculator\\AdaCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\C#\\AdaCalculator\\AdaCalculator\\AdaCalculator.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\OneDrive\\Área de Trabalho\\Lets Code\\Safra Code\\Testes\\ExercMichael\\AdaCalculator\\AdaCalculator.csproj",
         "projectName": "AdaCalculator",
-        "projectPath": "C:\\Projetos\\C#\\AdaCalculator\\AdaCalculator\\AdaCalculator.csproj",
-        "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\C#\\AdaCalculator\\AdaCalculator\\obj\\",
+        "projectPath": "C:\\Users\\lucas\\OneDrive\\Área de Trabalho\\Lets Code\\Safra Code\\Testes\\ExercMichael\\AdaCalculator\\AdaCalculator.csproj",
+        "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucas\\OneDrive\\Área de Trabalho\\Lets Code\\Safra Code\\Testes\\ExercMichael\\AdaCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,8 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://www.myget.org/F/aspnet-contrib/api/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -46,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

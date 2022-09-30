@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\Lets Code\Safra Code\Testes\ExercMichael\AdaCalculator\bin\Debug\net6.0\AdaCalculator.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Lets Code\Safra Code\Testes\ExercMichael\AdaCalculator\bin\Debug\net6.0\AdaCalculator.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Lets Code\Safra Code\Testes\ExercMichael\AdaCalculator\bin\Debug\net6.0\AdaCalculator.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Lets Code\Safra Code\Testes\ExercMichael\AdaCalculator\bin\Debug\net6.0\AdaCalculator.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Lets Code\Safra Code\Testes\ExercMichael\AdaCalculator\bin\Debug\net6.0\AdaCalculator.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Lets Code\Safra Code\Testes\ExercMichael\AdaCalculator\obj\Debug\net6.0\AdaCalculator.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Lets Code\Safra Code\Testes\ExercMichael\AdaCalculator\obj\Debug\net6.0\AdaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\Lets Code\Safra Code\Testes\ExercMichael\AdaCalculator\obj\Debug\net6.0\AdaCalculator.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Lets Code\Safra Code\Testes\ExercMichael\AdaCalculator\obj\Debug\net6.0\AdaCalculator.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Lets Code\Safra Code\Testes\ExercMichael\AdaCalculator\obj\Debug\net6.0\AdaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Lets Code\Safra Code\Testes\ExercMichael\AdaCalculator\obj\Debug\net6.0\AdaCalculator.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Lets Code\Safra Code\Testes\ExercMichael\AdaCalculator\obj\Debug\net6.0\refint\AdaCalculator.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Lets Code\Safra Code\Testes\ExercMichael\AdaCalculator\obj\Debug\net6.0\AdaCalculator.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Lets Code\Safra Code\Testes\ExercMichael\AdaCalculator\obj\Debug\net6.0\AdaCalculator.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Lets Code\Safra Code\Testes\ExercMichael\AdaCalculator\obj\Debug\net6.0\ref\AdaCalculator.dll
